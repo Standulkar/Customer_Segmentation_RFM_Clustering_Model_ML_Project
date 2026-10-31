@@ -1,0 +1,2 @@
+# Customer_Segmentation_RFM_Clustering_Model_ML_Project
+Customer Segmentation of Online Retail
